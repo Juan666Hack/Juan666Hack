@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility:visible;max-width:100%;">
  
-### <h1>Hi there 👋 I am Juan⁶⁶⁶Hack</h1>
+### <h2 tabindex="-1" class="heading-element" dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="50px" style="visibility:visible;max-width:100%;"></picture></themed-picture> Mi perfil.</h2>
 
 > I am Sr fullStack developer & Tech Lead
 <br />
